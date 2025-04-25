@@ -8,16 +8,6 @@
     <lastBuildDate>{{ last_build_date }}</lastBuildDate>
     {% for item in items %}
     <item>
-  <title>📋 Weekly Summary: App Policy Updates (Apr 20–26, 2025)</title>
-  <link>https://app-policy-updates.github.io/app-policy-updates/weekly-summary-2025-04-26</link>
-  <description>
-    • Google Play introduced new monetization rules for subscriptions.<br/>
-    • Apple revised App Review Guidelines to improve moderation of user-generated content.
-  </description>
-  <pubDate>Sun, 27 Apr 2025 08:00:00 GMT</pubDate>
-  <guid>https://app-policy-updates.github.io/app-policy-updates/weekly-summary-2025-04-26</guid>
-   </item>
-    <item>
       <title>{{ item.title }}</title>
       <link>{{ item.link }}</link>
       <description>{{ item.description }}</description>
