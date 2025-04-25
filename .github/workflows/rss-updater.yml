@@ -2,7 +2,7 @@ name: Daily Policy Feed Update
 
 on:
   schedule:
-    - cron: "0 6 * * *"  # Runs every day at 6:00 UTC
+    - cron: "0 6 * * *"  # Runs daily at 6:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -17,14 +17,16 @@ jobs:
         with:
           python-version: 3.11
 
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
       - name: Run updater script
-        run: |
-          python update_rss.py
+        run: python update_rss.py
 
       - name: Commit and push changes
         run: |
           git config --global user.name "RSS Bot"
           git config --global user.email "bot@example.com"
           git add feed.xml
-          git commit -m "Daily feed update"
+          git commit -m "Daily feed update" || echo "No changes to commit"
           git push
