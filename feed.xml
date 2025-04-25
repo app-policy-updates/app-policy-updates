@@ -1,2 +1,24 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>App Store &amp; Play Store Policy Updates</title><link>https://app-policy-updates.github.io/app-policy-updates/feed.xml</link><description>Auto-curated updates on App Store &amp; Google Play policy changes.</description><language>en-us</language><lastBuildDate>Fri, 25 Apr 2025 09:43:30 GMT</lastBuildDate><item><title>iOS 18.5 beta 3 (22F5053j)</title><link>https://developer.apple.com/news/releases/?id=04212025a</link><description>view downloadsview release notes</description><pubDate>Mon, 21 Apr 2025 10:00:00 PDT</pubDate><guid>https://developer.apple.com/news/releases/?id=04212025a</guid></item><item><title>iPadOS 18.5 beta 3 (22F5053j)</title><link>https://developer.apple.com/news/releases/?id=04212025b</link><description>view downloadsview release notes</description><pubDate>Mon, 21 Apr 2025 10:00:00 PDT</pubDate><guid>https://developer.apple.com/news/releases/?id=04212025b</guid></item><item><title>macOS 15.5 beta 3 (24F5053j)</title><link>https://developer.apple.com/news/releases/?id=04212025c</link><description>view downloadsview release notes</description><pubDate>Mon, 21 Apr 2025 10:00:00 PDT</pubDate><guid>https://developer.apple.com/news/releases/?id=04212025c</guid></item><item><title>tvOS 18.5 beta 3 (22L5559d)</title><link>https://developer.apple.com/news/releases/?id=04212025d</link><description>view downloadsview release notes</description><pubDate>Mon, 21 Apr 2025 10:00:00 PDT</pubDate><guid>https://developer.apple.com/news/releases/?id=04212025d</guid></item><item><title>visionOS 2.5 beta 3 (22O5459c)</title><link>https://developer.apple.com/news/releases/?id=04212025e</link><description>view downloadsview release notes</description><pubDate>Mon, 21 Apr 2025 10:00:00 PDT</pubDate><guid>https://developer.apple.com/news/releases/?id=04212025e</guid></item><item><title>watchOS 11.5 beta 3 (22T5559d)</title><link>https://developer.apple.com/news/releases/?id=04212025f</link><description>view downloadsview release notes</description><pubDate>Mon, 21 Apr 2025 10:00:00 PDT</pubDate><guid>https://developer.apple.com/news/releases/?id=04212025f</guid></item><item><title>iOS 18.4.1 (22E252)</title><link>https://developer.apple.com/news/releases/?id=04162025a</link><description>view downloads</description><pubDate>Wed, 16 Apr 2025 10:00:00 PDT</pubDate><guid>https://developer.apple.com/news/releases/?id=04162025a</guid></item><item><title>iPadOS 18.4.1 (22E252)</title><link>https://developer.apple.com/news/releases/?id=04162025b</link><description>view downloads</description><pubDate>Wed, 16 Apr 2025 10:00:00 PDT</pubDate><guid>https://developer.apple.com/news/releases/?id=04162025b</guid></item><item><title>macOS 15.4.1 (24E263)</title><link>https://developer.apple.com/news/releases/?id=04162025c</link><description>view downloads</description><pubDate>Wed, 16 Apr 2025 10:00:00 PDT</pubDate><guid>https://developer.apple.com/news/releases/?id=04162025c</guid></item><item><title>tvOS 18.4.1 (22L261)</title><link>https://developer.apple.com/news/releases/?id=04162025d</link><description>view downloads</description><pubDate>Wed, 16 Apr 2025 10:00:00 PDT</pubDate><guid>https://developer.apple.com/news/releases/?id=04162025d</guid></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>App Store & Play Store Policy Updates</title>
+    <link>https://app-policy-updates.github.io/app-policy-updates/feed.xml</link>
+    <description>Auto-curated updates on App Store & Google Play policy changes.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Apr 2025 08:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Google Play Introduces New Subscription Monetization Rules</title>
+      <link>https://play.google.com/policy-updates/2025/04/26/subscription-rules</link>
+      <description>Google has rolled out new rules for app subscriptions to improve user transparency and cancelation flows.</description>
+      <pubDate>Sat, 26 Apr 2025 08:00:00 GMT</pubDate>
+      <guid>https://play.google.com/policy-updates/2025/04/26/subscription-rules</guid>
+    </item>
+    <item>
+      <title>Apple Updates App Review Guidelines for User-Generated Content</title>
+      <link>https://developer.apple.com/app-store/review/guidelines/ugc-update</link>
+      <description>Apple revised its App Review Guidelines to better enforce policies around offensive user-generated content.</description>
+      <pubDate>Sat, 26 Apr 2025 08:00:00 GMT</pubDate>
+      <guid>https://developer.apple.com/app-store/review/guidelines/ugc-update</guid>
+    </item>
+  </channel>
+</rss>
