@@ -7,14 +7,5 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Apr 2025 10:00:00 GMT</lastBuildDate>
 
-    <!-- Sample item -->
-    <item>
-      <title>Apple updates parental controls in App Store Review Guidelines</title>
-      <link>https://developer.apple.com/news/?id=20240424a</link>
-      <description>Apple introduces stricter age verification for apps targeting children under 13.</description>
-      <pubDate>Wed, 24 Apr 2025 10:00:00 GMT</pubDate>
-      <guid>apple-20250424-child-safety</guid>
-    </item>
-
-  </channel>
+    </channel>
 </rss>
